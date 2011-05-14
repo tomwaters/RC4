@@ -1,0 +1,7 @@
+This is a quick implementation of RC4 in C# based on the information available on Wikipedia:
+http://en.wikipedia.org/wiki/RC4
+
+It seems to work for me but I take no responsibility for it working for you.
+
+This came from:
+https://github.com/tomwaters/RC4
